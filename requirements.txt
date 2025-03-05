@@ -46,7 +46,7 @@ pandas==2.2.3
 pandas-stubs==1.5.2.221213
 Pillow==10.0.0
 prettytable==3.3.0
-protobuf==5.29.3
+protobuf==3.20.1
 pyarrow==19.0.1
 PyAutoGUI==0.9.54
 pycparser==2.22
